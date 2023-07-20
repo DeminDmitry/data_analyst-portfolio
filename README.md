@@ -38,14 +38,12 @@
 + Проверены гипотезы об идентичности пользовательских рейтингов различных платформ и жанров.
 + Выявлены определяющие успешность игры закономерности. Это позволит сделать ставку на потенциально популярный продукт и спланировать рекламные кампании.
 
+[**6. Приоритизирование гипотез и AB-тест**](https://github.com/DeminDmitry/data_analyst-portfolio/blob/main/Project/Приоритизирование%20гипотез%20и%20AB-тест_git.ipynb)
 
 
 
 
 
-
-
-https://github.com/DeminDmitry/data_analyst-portfolio/blob/main/Project/Определяющие%20успешность%20игры%20закономерности%20_git.ipynb
 
 
 [**GFFF**](https://github.com/DeminDmitry/data_analyst-portfolio/blob/main/Project/Изучение%20поведения%20пользователей%20мобильного%20приложения_git.ipynb)
