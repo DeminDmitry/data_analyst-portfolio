@@ -65,9 +65,5 @@
 
 
 
+https://github.com/DeminDmitry/data_analyst-portfolio/blob/main/Project/Рынок%20заведений%20общественного%20питания%20Москвы_git.ipynb
 
-
-
-Разрабатотка стратегии взаимодействия с клиентами_git
-
-   https://github.com/DeminDmitry/data_analyst-portfolio/blob/main/Project/Разрабатотка%20стратегии%20взаимодействия%20с%20клиентами_git.ipynb
