@@ -2,9 +2,9 @@
 
 Демин Дмитрий Александрович
 
-Telegram - @demin_d; Whatsapp +7-905-791-65-55
+  Telegram - @demin_d; Whatsapp +7-905-791-65-55
 
-demind.a@yandex.ru
+  demind.a@yandex.ru
 
 
 ## Содержание
