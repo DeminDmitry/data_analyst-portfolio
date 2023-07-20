@@ -11,3 +11,8 @@
 №	Название проекта	Суть и результат	Навыки и инструменты
 1	Исследование надёжности заёмщиков	Анализ и рейтинг факторов, влияющих на уровень возврата по кредитам. Описание портретов лучшего и худшего заемщика.	Предобработка данных, категоризация, лемматизация, Pandas, PyMystem3
 рп
+
+Prerequisites
+Before you begin, ensure you have met the following requirements:
+
+Git must be installed on your operating system.
