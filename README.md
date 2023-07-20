@@ -63,14 +63,3 @@
 
 
 
-
-
-
-
-
-
-
-Рынок заведений общественного питания Москвы
-
-https://github.com/DeminDmitry/data_analyst-portfolio/blob/main/Project/Рынок%20заведений%20общественного%20питания%20Москвы_git.ipynb
-
