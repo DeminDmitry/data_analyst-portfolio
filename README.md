@@ -6,7 +6,6 @@
 Telegram - **@demin_d** 
 Whatsapp **+7-905-791-65-55**
 
-
 ## Содержание
 ### [**1. Изучение поведения пользователей мобильного приложения**](https://github.com/DeminDmitry/data_analyst-portfolio/blob/main/Project/Изучение%20поведения%20пользователей%20мобильного%20приложения_git.ipynb)
 
