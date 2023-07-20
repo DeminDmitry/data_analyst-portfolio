@@ -31,8 +31,17 @@
 + Ссылки на dashboard "Распределение числа звонков в колл-центры" и презентацию в самом файле.
 
 
+[**5. Определяющие успешность игры закономерности**](https://github.com/DeminDmitry/data_analyst-portfolio/blob/main/Project/Определяющие%20успешность%20игры%20закономерности%20_git.ipynb)
 
 
+
+
+
+
+
+
+
+https://github.com/DeminDmitry/data_analyst-portfolio/blob/main/Project/Определяющие%20успешность%20игры%20закономерности%20_git.ipynb
 
 
 [**GFFF**](https://github.com/DeminDmitry/data_analyst-portfolio/blob/main/Project/Изучение%20поведения%20пользователей%20мобильного%20приложения_git.ipynb)
