@@ -1,8 +1,9 @@
 # Аналитик данных. Портфолио
 
-## **Демин Дмитрий**     **demind.a@yandex.ru**
-
-  Telegram - **@demin_d**; Whatsapp **+7-905-791-65-55**
+## **Демин Дмитрий**     
+**demind.a@yandex.ru**
+Telegram - **@demin_d** 
+Whatsapp **+7-905-791-65-55**
 
 
 ## Содержание
