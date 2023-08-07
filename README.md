@@ -94,7 +94,7 @@ Whatsapp **+7-905-791-65-55**
 
 ### [**11. Яндекс.Дзен. Анализ пользовательского взаимодействия с карточками статей**](https://github.com/DeminDmitry/data_analyst-portfolio/blob/main/Project/Анализ%20пользовательского%20взаимодействия%20с%20карточками%20статей%20Я.Дзен_Dashboard.pdf)
 
-Состав данных для [дашборда](https://public.tableau.com/app/profile/dmitry7098/viz/Dashboardpublic_V1/Dashboard)
+Состав данных для [**дашборда**](https://public.tableau.com/app/profile/dmitry7098/viz/Dashboardpublic_V1/Dashboard):
 + История событий по темам карточек
 + Разбивка событий по темам источников
 + Таблица соответствия тем источников темам карточе
