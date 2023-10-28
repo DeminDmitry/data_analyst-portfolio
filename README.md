@@ -100,4 +100,4 @@ Whatsapp **+7-905-791-65-55**
 + Разбивка событий по темам источников
 + Таблица соответствия тем источников темам карточке
 
-### [**12. SQL. Анализ базы данных с информацией о книгах, издательствах, авторах, а также пользовательские обзоры книг**](https://github.com/DeminDmitry/data_analyst-portfolio/blob/main/Project/SQL_book.ipynb)
+### [**12. SQL. Анализ базы данных с информацией о книгах**](https://github.com/DeminDmitry/data_analyst-portfolio/blob/main/Project/SQL_book.ipynb)
